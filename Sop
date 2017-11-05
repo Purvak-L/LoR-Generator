@@ -1,0 +1,19 @@
+It was August 2014, I was waving goodbye to mom and dad, and could clearly notice my mom holding her tears, she was proud and worried at the same time. Even though our family (dad) had a setback in 2012, I managed with all the resources I had was able to be in 98 percentile of 1.5 million people who appeared for JEE (an entrance exam for engineering college). 'I'll make them proud' i murmured. I saw the kind of efforts they took to make our education possible and I'll not let that go into vain. With high hopes and determination, i reached Mumbai, to become a Computer engineer. I dragged my bags to Hostel and with a low voice, I asked the intimidating warden about my keys. Room number 4 it was. I quickly arrange all my belongings, cleaned my table and room as I was first to get that room. Slowly, as the day past, I headed towards 'Mess' (place to eat lunch and dinner in the hostel) and with oily and water-like rajma and chawal, I missed my mom.
+I slowly gained momentum in academics, scored a 9.23 in first semester itself, without any extra tuitions. 
+Came semester 2. I was swiftly going through semester 2, FCP (Fundamentals of Computer Programming) and Maths were subjects of my interest. It was then when i decided that i want to something more than academics (Extra cirricular)
+
+
+
+
+
+// Ater semester 3, I was trying my hands on various subjects like Web development, Cryptography, Core programming but wasn't interested in any of  	//them. Since all of my fellow classmates had already decided what they wanted to do, I was quite intimidated and was desperately looking into a 	//field which I'm comfortable with and it interest me.
+At that time, I read about an interesting project where a man intelligently lost his weight using machine learning. (Full disclosure: I was getting fat so I decided to read that article). So, he noted his weight in morning, along with that the items he ate and its importance (importance is how much a given food item will contribute to overall weight.) I was surprised and excited by how easily he could understand the pattern and decided to try it out. I collected my own data for 60 days. Also, during that time I heavily focused on MOOCs from Stanford (Andrew Ngs course on Machine learning.) and University of Washingtons Machine learning Specialisation on Coursera. Machine learning felt interesting because of its core in mathematics(Fav subject) and it's wide range of applications from day to day to task like the study above to Healthcare, Finance, Security etc. After completing all the extensive coursework, I decided to come back to my original case study and created visualisations using matplotlib and seaborn and to my surprise, i realised that the reason I was gaining weight was not that of extra calories I gained during the weekend, but because of failure to burn calories on Thursday and Friday. I replicated my data and applied regression to predict if a certain change in diet will help me or not. That is the target was the change in weight (delta between today's day and previous and input was the date, morning_weight, food items: importance). And after 2 months I lost about 6Kgs and this was beginning of my interest in Data science i.e how organised, visually presented data can make proper inferences. 
+
+In
+
+
+
+1. Machine learning seminar, workshop.
+2. Vikramank singh project
+3. College research.
+
